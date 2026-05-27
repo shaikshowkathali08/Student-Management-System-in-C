@@ -247,5 +247,5 @@ gcc student_management.c -o student
 
 
 
----Author---
+Author---> 
 Shaik Showkath ali
